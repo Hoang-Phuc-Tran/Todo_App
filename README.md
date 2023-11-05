@@ -1,6 +1,6 @@
 # ToDo App
 
-https://github.com/Hoang-Phuc-Tran/Todo_App/assets/120700092/ba7be3ac-f7cc-4fb1-aa4a-bce0a7ac5acd
+https://github.com/Hoang-Phuc-Tran/Todo_App/assets/120700092/71866fc7-1bed-458f-95e6-229dbb032acb
 
 <h1>https://todo-appp.up.railway.app/</h1>
 
